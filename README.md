@@ -36,10 +36,10 @@ Video.mp4 - contains final output video
 - The images are flattened after the convolutional layers.
 - 3 fully connected layers was added after the flattened layers.
 
-![Lenet](InputData/Lenet.png)
+![Lenet](ImageData/Lenet.png)
 
 The final output was saved using the command model.save('model.h5')
 
 The final loss value after the training is as mentioned below.
 
-![Loss](InputData/Loss.png)
+![Loss](ImageData/Loss.png)
